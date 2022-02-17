@@ -1,0 +1,19 @@
+{
+    "name": "Leroy Wright",
+
+    "title": "Interests",
+
+    "interests":[
+        {
+            "name": "Music"
+        },
+
+        {
+            "name": "Digital"
+        }
+    ],
+
+
+
+    "image": "./img/bala.png"
+}
